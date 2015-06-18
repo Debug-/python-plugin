@@ -1,0 +1,1 @@
+This is a plugin for SA:MP (multiplayer modification for GTA:SA), which adds the ability to execute Python scripts.
